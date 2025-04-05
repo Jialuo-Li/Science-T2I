@@ -1,0 +1,3 @@
+[submodule "ft_flux/GroundingDINO"]
+	path = ft_flux/GroundingDINO
+	url = https://github.com/IDEA-Research/GroundingDINO

@@ -1,0 +1,1250 @@
+[
+    {
+        "prompt": "A interactive whiteboard without electricity, simple, clear, and realistic.",
+        "object": "interactive whiteboard"
+    },
+    {
+        "prompt": "A simple, realistic image of a blood glucose meter without power.",
+        "object": "blood glucose meter"
+    },
+    {
+        "prompt": "A powerless LED digital clock, depicted in a simple and realistic way.",
+        "object": "LED digital clock"
+    },
+    {
+        "prompt": "A simple, realistic image of a arcade machine without power.",
+        "object": "arcade machine"
+    },
+    {
+        "prompt": "A simple, realistic image of a wall lamp without power.",
+        "object": "wall lamp"
+    },
+    {
+        "prompt": "A simple, realistic image of a atm machine screen without power.",
+        "object": "atm machine screen"
+    },
+    {
+        "prompt": "A powerless laser pointer, depicted in a simple and realistic way.",
+        "object": "laser pointer"
+    },
+    {
+        "prompt": "A powerless traffic light, depicted in a simple and realistic way.",
+        "object": "traffic light"
+    },
+    {
+        "prompt": "A simple, realistic image of a traffic light without power.",
+        "object": "traffic light"
+    },
+    {
+        "prompt": "A digital voice recorder without electricity, simple, clear, and realistic.",
+        "object": "digital voice recorder"
+    },
+    {
+        "prompt": "A simple, realistic image of a LED strip lights without power.",
+        "object": "LED strip lights"
+    },
+    {
+        "prompt": "A simple, realistic image of a e-reader without power.",
+        "object": "e-reader"
+    },
+    {
+        "prompt": "A powerless air conditioner remote, depicted in a simple and realistic way.",
+        "object": "air conditioner remote"
+    },
+    {
+        "prompt": "A simple, realistic image of a electric fireplace without power.",
+        "object": "electric fireplace"
+    },
+    {
+        "prompt": "A ceiling light without electricity, simple, clear, and realistic.",
+        "object": "ceiling light"
+    },
+    {
+        "prompt": "A simple, realistic image of a smartwatch without power.",
+        "object": "smartwatch"
+    },
+    {
+        "prompt": "A digital caliper without electricity, simple, clear, and realistic.",
+        "object": "digital caliper"
+    },
+    {
+        "prompt": "A ice block in the desert, clear, simple and realistic.",
+        "object": "ice block"
+    },
+    {
+        "prompt": "A realistic and simple depiction of a wax candle in the desert.",
+        "object": "wax candle"
+    },
+    {
+        "prompt": "A ice cream cone at sixty degrees Celsius, clear, simple and realistic.",
+        "object": "ice cream cone"
+    },
+    {
+        "prompt": "A piece of chocolate in the desert, clear, simple and realistic.",
+        "object": "chocolate"
+    },
+    {
+        "prompt": "Depicting a chocolate bar in summer outdoors, with a focus on simplicity and realism.",
+        "object": "chocolate bar"
+    },
+    {
+        "prompt": "Depicting a crayon in the desert, with a focus on simplicity and realism.",
+        "object": "crayon"
+    },
+    {
+        "prompt": "A lipstick in the desert, clear, simple and realistic.",
+        "object": "lipstick"
+    },
+    {
+        "prompt": "Depicting a lipstick in the desert, with a focus on simplicity and realism.",
+        "object": "lipstick"
+    },
+    {
+        "prompt": "A realistic and simple depiction of a ice block in summer outdoors.",
+        "object": "ice block"
+    },
+    {
+        "prompt": "Depicting a piece of butter in the desert, with a focus on simplicity and realism.",
+        "object": "butter"
+    },
+    {
+        "prompt": "A butter stick in the desert, clear, simple and realistic.",
+        "object": "butter stick"
+    },
+    {
+        "prompt": "A stick of lard in the desert, clear, simple and realistic.",
+        "object": "lard"
+    },
+    {
+        "prompt": "Depicting a ice cube on a heated pan, with a focus on simplicity and realism.",
+        "object": "ice cube"
+    },
+    {
+        "prompt": "A realistic and simple depiction of a crayon on a heated pan.",
+        "object": "crayon"
+    },
+    {
+        "prompt": "A realistic and simple depiction of a lipstick on a heated pan.",
+        "object": "lipstick"
+    },
+    {
+        "prompt": "Depicting a lipstick on a heated pan, with a focus on simplicity and realism.",
+        "object": "lipstick"
+    },
+    {
+        "prompt": "Depicting a ice cube on a sunny windowsill, with a focus on simplicity and realism.",
+        "object": "ice cube"
+    },
+    {
+        "prompt": "A realistic and simple depiction of a piece of cheese on a sunny windowsill.",
+        "object": "cheese"
+    },
+    {
+        "prompt": "A ice cream cone on a sunny windowsill, clear, simple and realistic.",
+        "object": "ice cream cone"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a iron bolt. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a plastic toy block. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a fishing bobber. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a wooden log. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a foam ball in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a brick in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a metal bangle. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a wooden stick. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a plastic comb in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a scissor. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a wooden hammer in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a steel key. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a plastic dice. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a steel nail. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a tennis ball. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a plastic pen in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a metal nut in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a foam sponge. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A realistic scene of a transparent box filled with water holding a crayon. The background is completely empty.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A transparent water-filled box holds a empty aluminum can in a simple and empty background, depicted realistically.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A unripe lemon, simple, clear and realistic.",
+        "object": "lemon"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature pomegranate.",
+        "object": "pomegranate"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature persimmon.",
+        "object": "persimmon"
+    },
+    {
+        "prompt": "A raw, undeveloped rice plant, shown in a realistic and simple setting.",
+        "object": "rice plant"
+    },
+    {
+        "prompt": "Raw, undeveloped red currants, shown in a realistic and simple setting.",
+        "object": "red currant"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature blackberry.",
+        "object": "blackberry"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature avocado.",
+        "object": "avocado"
+    },
+    {
+        "prompt": "Unripe cilantro seeds, simple, clear and realistic.",
+        "object": "cilantro seed"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature walnut.",
+        "object": "walnut"
+    },
+    {
+        "prompt": "A unripe marula fruit, simple, clear and realistic.",
+        "object": "marula fruit"
+    },
+    {
+        "prompt": "Unripe dates, simple, clear and realistic.",
+        "object": "date"
+    },
+    {
+        "prompt": "A raw, undeveloped lychee, shown in a realistic and simple setting.",
+        "object": "lychee"
+    },
+    {
+        "prompt": "Unripe coffee berries, simple, clear and realistic.",
+        "object": "coffee berry"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of premature coffee berries.",
+        "object": "coffee berry"
+    },
+    {
+        "prompt": "A unripe coffee cherry, simple, clear and realistic.",
+        "object": "coffee cherry"
+    },
+    {
+        "prompt": "A unripe zucchini, simple, clear and realistic.",
+        "object": "zucchini"
+    },
+    {
+        "prompt": "A straightforward and realistic depiction of a premature plumcot.",
+        "object": "plumcot"
+    },
+    {
+        "prompt": "A unripe bell pepper, simple, clear and realistic.",
+        "object": "bell pepper"
+    },
+    {
+        "prompt": "A iron bowl that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "iron bowl"
+    },
+    {
+        "prompt": "A copper faucet left in the open air for a long time, simple, clear, and realistic.",
+        "object": "copper faucet"
+    },
+    {
+        "prompt": "A bronze statue that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "bronze statue"
+    },
+    {
+        "prompt": "A silver coin that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "silver coin"
+    },
+    {
+        "prompt": "A bronze statue left in the open air for a long time, simple, clear, and realistic.",
+        "object": "bronze statue"
+    },
+    {
+        "prompt": "A iron wrench that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "iron wrench"
+    },
+    {
+        "prompt": "A bronze key that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "bronze key"
+    },
+    {
+        "prompt": "A bronze cup that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "bronze cup"
+    },
+    {
+        "prompt": "A steel box left in the open air for a long time, simple, clear, and realistic.",
+        "object": "steel box"
+    },
+    {
+        "prompt": "A steel shovel left in the open air for a long time, simple, clear, and realistic.",
+        "object": "steel shovel"
+    },
+    {
+        "prompt": "A bronze box left in the open air for a long time, simple, clear, and realistic.",
+        "object": "bronze box"
+    },
+    {
+        "prompt": "A steel pan that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "steel pan"
+    },
+    {
+        "prompt": "A bronze whistle that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "bronze whistle"
+    },
+    {
+        "prompt": "A bronze can that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "bronze can"
+    },
+    {
+        "prompt": "A steel fork that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "steel fork"
+    },
+    {
+        "prompt": "A aluminum coin left in the open air for a long time, simple, clear, and realistic.",
+        "object": "aluminum coin"
+    },
+    {
+        "prompt": "A silver fork that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "silver fork"
+    },
+    {
+        "prompt": "A silver fork left in the open air for a long time, simple, clear, and realistic.",
+        "object": "silver fork"
+    },
+    {
+        "prompt": "A silver bowl left in the open air for a long time, simple, clear, and realistic.",
+        "object": "silver bowl"
+    },
+    {
+        "prompt": "A silver coin left in the open air for a long time, simple, clear, and realistic.",
+        "object": "silver coin"
+    },
+    {
+        "prompt": "A silver cup that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "silver cup"
+    },
+    {
+        "prompt": "A silver plate that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "silver plate"
+    },
+    {
+        "prompt": "A silver locket that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "silver locket"
+    },
+    {
+        "prompt": "A copper pot that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "copper pot"
+    },
+    {
+        "prompt": "A brass bowl left in the open air for a long time, simple, clear, and realistic.",
+        "object": "brass bowl"
+    },
+    {
+        "prompt": "A brass frame left in the open air for a long time, simple, clear, and realistic.",
+        "object": "brass frame"
+    },
+    {
+        "prompt": "A copper bottle that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "copper bottle"
+    },
+    {
+        "prompt": "A brass mortar that has been exposed to oxygen for decades, simple, clear and realistic.",
+        "object": "brass mortar"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little copper sulfide powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of calcium chlorate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little aluminum powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of sodium bicarbonate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A small plate holding isopropyl alcohol burns steadily, the scene straightforward and realistic.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little barium chlorate powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A small plate holding kerosene burns steadily, the scene straightforward and realistic.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A small dish with gasoline burning, captured in a clear and realistic moment.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little zinc carbonate powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A small dish with diesel burning, captured in a clear and realistic moment.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of thallium powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little thallium powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of potassium permanganate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little rubidium carbonate powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little cesium chloride powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of silver nitrate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little silver nitrate powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little praseodymium chloride powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A simple and realistic scene of a little lanthanum chloride powder burning on a surface.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of copper(ii) acetate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of potassium sulfate powder ignites on a surface, in a simple, clear, and realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A little bit blue food coloring added to a glass of water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit blue ink added to a glass of saline solution, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit blue ink added to a glass of glycerin, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit red ink added to a glass of glycerin, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit red dye added to a glass of water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit red dye added to a glass of vinegar, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit orange dye added to a glass of glycerin, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit yellow dye added to a glass of water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit white food coloring added to a glass of lemonade, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit tea added to a glass of soda water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit yellow dye added to a glass of soda water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit yellow dye added to a glass of glycerin, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit milk added to a glass of soda water, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit coffee added to a glass of lemonade, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A flower in a simple space without gravity, simple, clear and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A toilet in a simple space without gravity, simple, clear and realistic.",
+        "object": "toilet"
+    },
+    {
+        "prompt": "A laptop in a simple space without gravity, simple, clear and realistic.",
+        "object": "laptop"
+    },
+    {
+        "prompt": "A charger in a simple space without gravity, simple, clear and realistic.",
+        "object": "charger"
+    },
+    {
+        "prompt": "A cleaning spray in a simple space without gravity, simple, clear and realistic.",
+        "object": "cleaning spray"
+    },
+    {
+        "prompt": "A tissue box in a simple space without gravity, simple, clear and realistic.",
+        "object": "tissue box"
+    },
+    {
+        "prompt": "A shoe in a simple space without gravity, simple, clear and realistic.",
+        "object": "shoe"
+    },
+    {
+        "prompt": "A toothbrush in a simple space without gravity, simple, clear and realistic.",
+        "object": "toothbrush"
+    },
+    {
+        "prompt": "A candle in a simple space without gravity, simple, clear and realistic.",
+        "object": "candle"
+    },
+    {
+        "prompt": "A door in a simple space without gravity, simple, clear and realistic.",
+        "object": "door"
+    },
+    {
+        "prompt": "A spoon in a simple space without gravity, simple, clear and realistic.",
+        "object": "spoon"
+    },
+    {
+        "prompt": "A fork in a simple space without gravity, simple, clear and realistic.",
+        "object": "fork"
+    },
+    {
+        "prompt": "A sticky note in a simple space without gravity, simple, clear and realistic.",
+        "object": "sticky note"
+    },
+    {
+        "prompt": "A planner in a simple space without gravity, simple, clear and realistic.",
+        "object": "planner"
+    },
+    {
+        "prompt": "A sink in a simple space without gravity, simple, clear and realistic.",
+        "object": "sink"
+    },
+    {
+        "prompt": "A side table in a simple space without gravity, simple, clear and realistic.",
+        "object": "side table"
+    },
+    {
+        "prompt": "A router in a simple space without gravity, simple, clear and realistic.",
+        "object": "router"
+    },
+    {
+        "prompt": "A vacuum cleaner in a simple space without gravity, simple, clear and realistic.",
+        "object": "vacuum cleaner"
+    },
+    {
+        "prompt": "A faucet in a simple space without gravity, simple, clear and realistic.",
+        "object": "faucet"
+    },
+    {
+        "prompt": "A clock radio in a simple space without gravity, simple, clear and realistic.",
+        "object": "clock radio"
+    },
+    {
+        "prompt": "A hairbrush in a simple space without gravity, simple, clear and realistic.",
+        "object": "hairbrush"
+    },
+    {
+        "prompt": "A outlet in a simple space without gravity, simple, clear and realistic.",
+        "object": "outlet"
+    },
+    {
+        "prompt": "A potted penstemon kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted jasmine kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted hydrangea kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted cosmos kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted snowdrop kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted solomon's seal kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted mimosa kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted ranunculus kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted witch hazel kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted verbena kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted baptisia kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted wallflower kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted blackfoot daisy kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted chocolate cosmos kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted cornflower kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted echium kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted forget-me-not kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted globe thistle kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted goldenrod kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted nemophila kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted obedient plant kept in a dark room for weeks, simple, clear, and realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "a jug filled with oil heated to hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "jug"
+    },
+    {
+        "prompt": "A jug containing soup brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "jug"
+    },
+    {
+        "prompt": "A pitcher containing coffee brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "A bucket containing soup brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "bucket"
+    },
+    {
+        "prompt": "A cup containing milk brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "cup"
+    },
+    {
+        "prompt": "A carafe containing oil brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A carafe containing soup brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A pot containing soup brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "pot"
+    },
+    {
+        "prompt": "a glass filled with syrup heated to hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass of tea at hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A jug of milk at hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "jug"
+    },
+    {
+        "prompt": "a cup filled with tea heated to hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "cup"
+    },
+    {
+        "prompt": "a pitcher filled with tea heated to hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "A pitcher containing tea brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "A jug containing tea brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "jug"
+    },
+    {
+        "prompt": "A glass containing coffee brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A cup containing oil brought to several hundred degrees Celsius, simple, clear and realistic.",
+        "object": "cup"
+    },
+    {
+        "prompt": "a carafe filled with syrup heated to hundreds of degrees Celsius, simple, clear and realistic.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A rarely watered papaver, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered pasque flower, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered snapdragon, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered morning glory, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered snowdrop, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered crocus, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered gazania, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered tansy, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered twinflower, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered osteospermum, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered uvularia, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered witch hazel, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered sweet woodruff, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered borage, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered bougainvillea, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered celandine, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered liriope, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered goldenrod, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered lilac, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered loosestrife, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered mallow, presented in a simple, clear, and realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A drop of coffee touches a felt, simple, clear and realistic.",
+        "object": "coffee stain"
+    },
+    {
+        "prompt": "A drop of ink touches a napkin, simple, clear and realistic.",
+        "object": "ink stain"
+    },
+    {
+        "prompt": "A drop of yellow food coloring touches a cotton fabric, simple, clear and realistic.",
+        "object": "yellow stain"
+    },
+    {
+        "prompt": "A drop of ink touches a felt, simple, clear and realistic.",
+        "object": "ink stain"
+    },
+    {
+        "prompt": "A drop of yellow dye touches a paper towel, simple, clear and realistic.",
+        "object": "yellow stain"
+    },
+    {
+        "prompt": "A drop of soy sauce touches a cardboard, simple, clear and realistic.",
+        "object": "soy sauce stain"
+    },
+    {
+        "prompt": "A drop of blue ink touches a cardboard, simple, clear and realistic.",
+        "object": "blue stain"
+    },
+    {
+        "prompt": "A drop of green food coloring touches a felt, simple, clear and realistic.",
+        "object": "green stain"
+    },
+    {
+        "prompt": "A drop of red wine touches a cardboard, simple, clear and realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of purple food coloring touches a napkin, simple, clear and realistic.",
+        "object": "purple stain"
+    },
+    {
+        "prompt": "A drop of red ink touches a white cloth, simple, clear and realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of tea touches a felt, simple, clear and realistic.",
+        "object": "tea stain"
+    },
+    {
+        "prompt": "A drop of red dye touches a paper towel, simple, clear and realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of tea touches a cardboard, simple, clear and realistic.",
+        "object": "tea stain"
+    },
+    {
+        "prompt": "A drop of red dye touches a felt, simple, clear and realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of blue dye touches a paper towel, simple, clear and realistic.",
+        "object": "blue stain"
+    },
+    {
+        "prompt": "A clear glass filled with vinegar and diesel, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both vinegar and almond oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both alcohol and oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with alcohol and diesel, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with mercury and peanut oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with milk and vegetable oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with mercury and diesel, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both milk and vegetable oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with mercury and canola oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with vinegar and mercury, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with milk and almond oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both glycerin and olive oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both water and petrol, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both glycerin and canola oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both mercury and olive oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with soy sauce and vegetable oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both vinegar and mercury, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with red wine and olive oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both red wine and almond oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both brine and vegetable oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A clear glass filled with coffee and vegetable oil, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A glass containing both coffee and vegetable oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A metal bottle in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "metal bottle"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a wooden cup appears, simple, clear and realistic.",
+        "object": "wooden cup"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a glass beaker appears, simple, clear and realistic.",
+        "object": "glass beaker"
+    },
+    {
+        "prompt": "A metal can placed in a highly humid space at room temperature, presented simply and realistically.",
+        "object": "metal can"
+    },
+    {
+        "prompt": "A metal watering can in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "metal watering can"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a ceramic mug appears, simple, clear and realistic.",
+        "object": "ceramic mug"
+    },
+    {
+        "prompt": "A ceramic mug placed in a highly humid space at room temperature, presented simply and realistically.",
+        "object": "ceramic mug"
+    },
+    {
+        "prompt": "A marble tile in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "marble tile"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a granite vase appears, simple, clear and realistic.",
+        "object": "granite vase"
+    },
+    {
+        "prompt": "A glass jar placed in a highly humid space at room temperature, presented simply and realistically.",
+        "object": "glass jar"
+    },
+    {
+        "prompt": "A metal pan placed in a highly humid space at room temperature, presented simply and realistically.",
+        "object": "metal pan"
+    },
+    {
+        "prompt": "A ceramic vase in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "ceramic vase"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a metal cup appears, simple, clear and realistic.",
+        "object": "metal cup"
+    },
+    {
+        "prompt": "A metal kettle in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "metal kettle"
+    },
+    {
+        "prompt": "A ceramic cup in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "ceramic cup"
+    },
+    {
+        "prompt": "A marble coaster in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "marble coaster"
+    },
+    {
+        "prompt": "A marble chessboard in a extremely humid and room-temperature environment, clear, simple and realistic.",
+        "object": "marble chessboard"
+    },
+    {
+        "prompt": "A aluminum can placed in a highly humid space at room temperature, presented simply and realistically.",
+        "object": "aluminum can"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature setting, a acrylic sheet appears, simple, clear and realistic.",
+        "object": "acrylic sheet"
+    },
+    {
+        "prompt": "A simple, clear and realistic depiction of a pitcher of water set in a subzero environment.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "In a frosty environment, a pitcher holding water, presented in a simple and realistic way.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "A carafe of water in a subzero environment, clear, simple and realistic.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "In a polar environment, a bowl holding water, presented in a simple and realistic way.",
+        "object": "bowl"
+    },
+    {
+        "prompt": "at minus tens of degrees Celsius, a cup holding water, presented in a simple and realistic way.",
+        "object": "cup"
+    },
+    {
+        "prompt": "A simple, clear and realistic depiction of a carafe of water set in a polar environment.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "In an arctic environment, a bottle holding water, presented in a simple and realistic way.",
+        "object": "bottle"
+    },
+    {
+        "prompt": "A bowl of water in a glacial environment, clear, simple and realistic.",
+        "object": "bowl"
+    },
+    {
+        "prompt": "A cup of water in a freezer environment, clear, simple and realistic.",
+        "object": "cup"
+    },
+    {
+        "prompt": "In an arctic environment, a carafe holding water, presented in a simple and realistic way.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A glass of water in a frosty environment, clear, simple and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A simple, clear and realistic depiction of a carafe of water set in a freezer environment.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A larch in spring with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A maple tree in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A lilac bush during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A grape vine in autumn with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A japanese pagoda tree during winter, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A hydrangea during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A hydrangea in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A japanese zelkova during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A birch tree during spring, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A weeping willow during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A amur cork tree in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A oak tree during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A holly bush in autumn with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A wisteria in spring with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A black alder in autumn with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A golden rain tree during autumn, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A golden rain tree in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A lavender during summer, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A ash tree during winter, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A rose bush in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A aspen tree in autumn with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A peony during spring, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A barberry bush in winter with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A elm tree in winter with high realism.",
+        "object": "plant"
+    }
+]

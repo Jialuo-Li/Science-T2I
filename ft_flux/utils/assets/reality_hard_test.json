@@ -1,0 +1,402 @@
+[
+    {
+        "prompt": "A drop of ink touches a blotting paper on the shelf, realistic.",
+        "object": "ink stain"
+    },
+    {
+        "prompt": "A drop of red dye touches a napkin on the cabinet, realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of cola touches a cardboard on the table, realistic.",
+        "object": "cola stain"
+    },
+    {
+        "prompt": "A drop of red wine touches a napkin on the shelf, realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "A drop of purple dye touches a felt on the patio, realistic.",
+        "object": "purple stain"
+    },
+    {
+        "prompt": "A drop of red dye touches a white cloth on the tray, realistic.",
+        "object": "red stain"
+    },
+    {
+        "prompt": "In the basement, a transparent box filled with water holding a beach ball, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "In the living room, a transparent water-filled box holds a dumbbell, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "In the backyard, a transparent box filled with water holding a ping pong ball, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "On the desk, a transparent box filled with water holding a coconut, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "Beside the window, a transparent water-filled box holds a pumice stone, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "In the garden, a transparent box filled with water holding a iron block, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A bit of carbon powder ignites on the shelf in a realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of copper carbonate powder ignites in the kitchen, realistic.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of strontium powder ignites on the table, realistic.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of antimony chloride powder ignites in the ashtray in a realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of sodium nitrate powder ignites inside the workshop, realistic.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A bit of silicon powder ignites on the counter in a realistic way.",
+        "object": "flame"
+    },
+    {
+        "prompt": "A little bit ink added to a glass of water on the counter, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit red wine added to a glass of glycerin on the bookshelf, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit green food coloring added to a glass of soda water on the floor, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit yellow food coloring added to a glass of soda water on the desk, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit red food coloring added to a glass of water on the bookshelf, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A little bit orange dye added to a glass of vinegar on the table, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A television without electricity in the living room, realistic.",
+        "object": "television"
+    },
+    {
+        "prompt": "A digital thermometer without electricity on the cabinet, realistic.",
+        "object": "digital thermometer"
+    },
+    {
+        "prompt": "A powerless LED tube light in the office, realistic.",
+        "object": "LED tube light"
+    },
+    {
+        "prompt": "A powerless laptop on the office desk, depicted in a realistic way.",
+        "object": "laptop"
+    },
+    {
+        "prompt": "A lamp without power on a bedside table, realistic.",
+        "object": "lamp"
+    },
+    {
+        "prompt": "A digital timer without electricity in the kitchen, realistic.",
+        "object": "digital timer"
+    },
+    {
+        "prompt": "A bowl of tea at hundreds of degrees Celsius in the bathroom, realistic.",
+        "object": "bowl"
+    },
+    {
+        "prompt": "a pitcher filled with vinegar in the dining room heated to hundreds of degrees Celsius, realistic.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "A glass containing beer in the library brought to several hundred degrees Celsius, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A bottle of tea at hundreds of degrees Celsius in the lobby, realistic.",
+        "object": "bottle"
+    },
+    {
+        "prompt": "a cup filled with water heated to hundreds of degrees Celsius in the foyer, realistic.",
+        "object": "cup"
+    },
+    {
+        "prompt": "a carafe filled with water heated to hundreds of degrees Celsius on the table, realistic.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A potted rose kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted tulip kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted daisy kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted lily kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted poppy kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A potted hibiscus kept in a dark room for weeks, realistic.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered rose beside the window, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered daisy on the porch, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered tulip in the courtyard, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered poppy inside the office, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered hibiscus in the library, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A rarely watered lily in the bathroom, presented in a realistic way.",
+        "object": "flower"
+    },
+    {
+        "prompt": "A unripe mango on the counter, realistic.",
+        "object": "mango"
+    },
+    {
+        "prompt": "A unripe pumpkin in the garden, realistic.",
+        "object": "pumpkin"
+    },
+    {
+        "prompt": "A realistic depiction of a premature grape in the garden.",
+        "object": "grape"
+    },
+    {
+        "prompt": "A raw, undeveloped coffee bean on the plate, shown in a realistic setting.",
+        "object": "coffee bean"
+    },
+    {
+        "prompt": "A unripe cocoa bean on the plate, realistic.",
+        "object": "cocoa bean"
+    },
+    {
+        "prompt": "A unripe blueberry on the table, realistic.",
+        "object": "blueberry"
+    },
+    {
+        "prompt": "A key on the playground without gravity, realistic.",
+        "object": "key"
+    },
+    {
+        "prompt": "A computer on the road without gravity, realistic.",
+        "object": "computer"
+    },
+    {
+        "prompt": "A eraser on a windowsill without gravity, realistic.",
+        "object": "eraser"
+    },
+    {
+        "prompt": "A can on the soccer field without gravity, realistic.",
+        "object": "can"
+    },
+    {
+        "prompt": "A mop on the grass without gravity, realistic.",
+        "object": "mop"
+    },
+    {
+        "prompt": "A keyboard on the pavement without gravity, realistic.",
+        "object": "keyboard"
+    },
+    {
+        "prompt": "A clock on the soccer field without gravity, realistic.",
+        "object": "clock"
+    },
+    {
+        "prompt": "A game console on the grass without gravity, realistic.",
+        "object": "game console"
+    },
+    {
+        "prompt": "A tray on the playground without gravity, realistic.",
+        "object": "tray"
+    },
+    {
+        "prompt": "A brush on the street without gravity, realistic.",
+        "object": "brush"
+    },
+    {
+        "prompt": "A metal ball in a extremely humid and room-temperature office, realistic.",
+        "object": "metal ball"
+    },
+    {
+        "prompt": "A leather bag placed in a highly humid living room at room temperature, presented realistically.",
+        "object": "leather bag"
+    },
+    {
+        "prompt": "A metal tray in a extremely humid and room-temperature kitchen, realistic.",
+        "object": "metal tray"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature bathroom, a copper bowl appears, realistic.",
+        "object": "copper bowl"
+    },
+    {
+        "prompt": "A plastic tray placed in a highly humid kitchen at room temperature, presented realistically.",
+        "object": "plastic tray"
+    },
+    {
+        "prompt": "In an extremely humid, room-temperature bedroom, a glass bowl appears, realistic.",
+        "object": "glass bowl"
+    },
+    {
+        "prompt": "Depicting a chocolate bar at sixty degrees Celsius, with a focus on realism.",
+        "object": "chocolate bar"
+    },
+    {
+        "prompt": "A realistic depiction of a piece of butter on a heated pan.",
+        "object": "butter"
+    },
+    {
+        "prompt": "Depicting a marshmallow at sixty degrees Celsius, with a focus on realism.",
+        "object": "marshmallow"
+    },
+    {
+        "prompt": "A realistic depiction of a stick of lard at sixty degrees Celsius.",
+        "object": "lard"
+    },
+    {
+        "prompt": "A realistic depiction of a soap bar at sixty degrees Celsius.",
+        "object": "soap bar"
+    },
+    {
+        "prompt": "A realistic depiction of a toffee on a sunny windowsill.",
+        "object": "toffee"
+    },
+    {
+        "prompt": "In the conference room, a clear glass filled with water and olive oil, realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "In the living room, a glass containing both mercury and vegetable oil, showing a realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "On the counter, a glass containing both red wine and canola oil, showing a realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "On the balcony, a glass containing both soy sauce and peanut oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "On the table, a glass containing both alcohol and olive oil, showing a simple and realistic scene.",
+        "object": "glass"
+    },
+    {
+        "prompt": "In the kitchen, a clear glass filled with water and diesel, simple, clear, and realistic.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A steel ruler left in the open air for a long time, sitting on the couch, realistic.",
+        "object": "steel ruler"
+    },
+    {
+        "prompt": "A iron can left in the open air for a long time, sitting in the gym, realistic.",
+        "object": "iron can"
+    },
+    {
+        "prompt": "A copper fork left in the open air for a long time, sitting on the shelf, realistic.",
+        "object": "copper fork"
+    },
+    {
+        "prompt": "A aluminum foil that has been exposed to oxygen for decades sits on the chair, realistic.",
+        "object": "aluminum foil"
+    },
+    {
+        "prompt": "A bronze compass that has been exposed to oxygen for decades sits in the dining room, realistic.",
+        "object": "bronze compass"
+    },
+    {
+        "prompt": "A silver ring left in the open air for a long time, sitting on the couch, realistic.",
+        "object": "silver ring"
+    },
+    {
+        "prompt": "A realistic depiction of a pitcher of water set in a freezer environment.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "In an arctic environment, a bowl holding water, presented in a realistic way.",
+        "object": "bowl"
+    },
+    {
+        "prompt": "A bowl of water at minus tens of degrees Celsius, realistic.",
+        "object": "pitcher"
+    },
+    {
+        "prompt": "At minus tens of degrees Celsius, a bowl holding beer, presented in a realistic way.",
+        "object": "bowl"
+    },
+    {
+        "prompt": "A realistic depiction of a carafe of beer set in a freezer environment.",
+        "object": "carafe"
+    },
+    {
+        "prompt": "A realistic depiction of a glass of vinegar set in a freezer environment.",
+        "object": "glass"
+    },
+    {
+        "prompt": "A hackberry tree during winter stands by the farm, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A willow tree in spring stands near the bridge, with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A ginkgo tree during autumn stands in the village, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A hickory tree in autumn stands by the roadside, with high realism.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A sweetgum tree during spring stands near the temple, depicted in a realistic way.",
+        "object": "plant"
+    },
+    {
+        "prompt": "A boxelder in winter stands by the river, with high realism.",
+        "object": "plant"
+    }
+]

@@ -1,0 +1,2 @@
+# You can modify various configurations in the ./trainer/conf/experiment/sciscore.yaml file.
+accelerate launch --dynamo_backend no --gpu_ids all --num_processes 4  --num_machines 1 --use_deepspeed train.py +experiment=sciscore output_dir=output

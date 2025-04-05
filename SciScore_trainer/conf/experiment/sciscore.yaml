@@ -1,0 +1,41 @@
+# @package _global_
+
+defaults:
+  - /experiment/clip
+
+accelerator:
+  project_name: SciScore
+  max_steps: 600
+  save_steps: 600
+  validate_steps: 10
+  deepspeed:
+    gradient_accumulation_steps: 16
+    
+output_dir: outputs
+
+model:
+  pretrained_model_name_or_path: laion/CLIP-ViT-H-14-laion2B-s32B-b79K
+  
+dataset:
+  train_split_name: train
+  test_split_name: test_C
+  batch_size: 16
+  dataset_name: Jialuo21/Science-T2I-Fullset
+  caption_column_name: implicit_prompt
+  pos_caption_column_name: explicit_prompt
+  neg_caption_column_name: superficial_prompt
+  image_pos_column_name: explicit_image
+  image_neg_column_name: superficial_image
+  category_column_name: category
+
+criterion:
+  lambda_: 0.25
+
+
+optimizer:
+  lr: 2.0e-6
+  weight_decay: 0.3
+lr_scheduler:
+  lr: 2.0e-6
+  lr_warmup_steps: 150
+  total_num_steps: 600
