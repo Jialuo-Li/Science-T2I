@@ -2,7 +2,7 @@
 <h1><img src="examples/icon.png" width="5%"/>&nbsp;<i>Science-T2I</i>:</br>Addressing Scientific Illusions in Image Synthesis</h1>
 
 
-<a href="https://arxiv.org/pdf/2504.13129/" target="_blank">
+<a href="https://arxiv.org/pdf/2504.13129" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Science--T2I-red?logo=arxiv" height="20" /></a>
 <a href="https://jialuo-li.github.io/Science-T2I-Web/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-Science--T2I-blue.svg" height="20" /></a>
