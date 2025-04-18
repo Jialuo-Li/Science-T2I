@@ -2,7 +2,7 @@
 <h1><img src="examples/icon.png" width="5%"/>&nbsp;<i>Science-T2I</i>:</br>Addressing Scientific Illusions in Image Synthesis</h1>
 
 
-<a href="https://arxiv.org/pdf/" target="_blank">
+<a href="https://arxiv.org/pdf/2504.13129/" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Science--T2I-red?logo=arxiv" height="20" /></a>
 <a href="https://jialuo-li.github.io/Science-T2I-Web/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-Science--T2I-blue.svg" height="20" /></a>
@@ -32,6 +32,7 @@
 
 ## :fire: News
 
+- [2025/4/18] Release [paper](https://arxiv.org/abs/2504.13129).
 - [2025/4/05] Release Science-T2I dataset, as well as the training and evaluation code.
 
 ## ✨ Quick Start  
@@ -201,11 +202,14 @@ We are deeply grateful for the following GitHub repositories, as their valuable 
 
 If you find Science-T2I useful for your your research and applications, please cite using this BibTeX:
 
-<!-- ```bibtex
-@article{song2023moviechat,
-  title={MovieChat: From Dense Token to Sparse Memory for Long Video Understanding},
-  author={Song, Enxin and Chai, Wenhao and Wang, Guanhong and Zhang, Yucheng and Zhou, Haoyang and Wu, Feiyang and Guo, Xun and Ye, Tian and Lu, Yan and Hwang, Jenq-Neng and others},
-  journal={arXiv preprint arXiv:2307.16449},
-  year={2023}
-} -->
+```bibtex
+@misc{li2025sciencet2iaddressingscientificillusions,
+      title={Science-T2I: Addressing Scientific Illusions in Image Synthesis}, 
+      author={Jialuo Li and Wenhao Chai and Xingyu Fu and Haiyang Xu and Saining Xie},
+      year={2025},
+      eprint={2504.13129},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.13129}, 
+}
 ```
