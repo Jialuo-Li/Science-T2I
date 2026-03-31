@@ -34,6 +34,7 @@
 
 - [2025/4/18] Release [paper](https://arxiv.org/abs/2504.13129).
 - [2025/4/05] Release Science-T2I dataset, as well as the training and evaluation code.
+- [2026/3/31] Add LMM-based evaluation script for T2I models (`eval/eval_t2i_with_lmm.py`).
 
 ## ✨ Quick Start  
 
@@ -140,6 +141,15 @@ Using SciScore, you can assess how well T2I models align with real-world scenari
 ```
 accelerate launch eval/eval_t2i_with_SciScore.py \
   --dataset_name Jialuo21/Science-T2I-S
+```
+
+### Benchmarking T2I Models with LMM
+You can also evaluate T2I models using a multimodal LMM (e.g., [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)) as a judge. The script generates images with a T2I model and scores them via an OpenAI-compatible multimodal API:
+```
+accelerate launch eval/eval_t2i_with_lmm.py \
+  --dataset_name Jialuo21/Science-T2I \
+  --api_base http://127.0.0.1:8080/v1 \
+  --api_model Qwen3-VL
 ```
 
 ### Train SciScore from Scratch
